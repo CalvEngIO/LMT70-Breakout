@@ -1,0 +1,8 @@
+#Ignoring all files in PCB_Designs directory except for .brd and .sch files
+#This is done specifically to autosave files
+/*
+!*.brd
+!*.sch
+
+# Ignore Mac DS_Store files in all directories
+.DS_Store
