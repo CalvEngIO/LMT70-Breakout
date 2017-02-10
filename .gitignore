@@ -3,6 +3,9 @@
 /*
 !*.brd
 !*.sch
+!*.xls
+!*.xlsx
+!*/Images
 
 # Ignore Mac DS_Store files in all directories
 .DS_Store
