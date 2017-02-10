@@ -6,6 +6,8 @@
 !*.xls
 !*.xlsx
 !*Images/
+!*Hardware/
+!*Docs/
 
 # Ignore Mac DS_Store files in all directories
 .DS_Store
